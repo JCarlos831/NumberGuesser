@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/vscode/csharp/NumberGuesser/NumberGuesser/bin/Debug/NumberGuesser.exe
+/Users/JuanCMontoya/Projects/vscode/csharp/NumberGuesser/NumberGuesser/bin/Debug/NumberGuesser.pdb
+/Users/JuanCMontoya/Projects/vscode/csharp/NumberGuesser/NumberGuesser/obj/x86/Debug/NumberGuesser.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/NumberGuesser/NumberGuesser/obj/x86/Debug/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/NumberGuesser/NumberGuesser/obj/x86/Debug/NumberGuesser.exe
+/Users/JuanCMontoya/Projects/vscode/csharp/NumberGuesser/NumberGuesser/obj/x86/Debug/NumberGuesser.pdb
