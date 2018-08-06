@@ -18,15 +18,12 @@ namespace NumberGuesser
             while (true)
             {
 
-                // Set Correct Number
-                //int correctNumber = 7;
-
                 // Create a new random object
                 Random random = new Random();
 
                 int correctNumber = random.Next(1, 10);
 
-                // Init Guess Variable
+                // Inititialize Guess Variable
                 int guess = 0;
 
                 // Ask user for number
@@ -50,6 +47,16 @@ namespace NumberGuesser
 
                     // Cast to int and put in guess variable
                     guess = Int32.Parse(input);
+
+                    if (guess < 1 || guess > 10)
+                    {
+                        // Print error message
+                        PrintColorMessage(ConsoleColor.Red, "Number must be between 1 and 10");
+
+                        // Keep going
+                        continue;
+
+                    }
 
                     // Match guess to correct number
                     if (guess != correctNumber)
